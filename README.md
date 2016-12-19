@@ -1,6 +1,6 @@
 # SCR for Face Alignment
 
-ArXiv paper: http://www.fagg.id.au/projects/SCR/Arxiv_Submit.pdf
+ArXiv paper: https://arxiv.org/abs/1612.05332
 
 This is the reference implementation for Sparse-Compositional Regression based face landmark alignment. This implementation
 is not designed to be fast, it is merely for training and basic testing.
